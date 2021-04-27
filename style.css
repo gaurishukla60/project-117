@@ -18,3 +18,27 @@
 {
     font-size: 20px;
 }
+.result_para
+{
+    box-shadow: 5px , 5px , 5px grey;
+    font-size: 20px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+    bottom: 0;
+    width: 100%;
+    background-color: cornflowerblue;
+    line-height: 3;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid blueviolet;
+    border-radius: 20px;
+    box-shadow: 5px , 5px , 5px grey;
+    margin-top: 150px;
+}
